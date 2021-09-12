@@ -6,7 +6,7 @@ on:
   push:
     branches:
       - main
-      - eyal-changes
+      - eyal-tests
   pull_request:
 
 env:
